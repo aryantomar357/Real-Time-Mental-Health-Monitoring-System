@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+opencv-python
+deepface
+pyttsx3
+pygame
+tensorflow==2.11.0
+Pillow
+tk
